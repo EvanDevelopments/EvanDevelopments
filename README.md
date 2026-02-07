@@ -19,9 +19,6 @@
 - 🔭 My life mission is to integrate the science of mental health and wellbeing into innovative technical solutions that help humans to flourish.
 -->
 
-🗺️ I’m currently working on:
- - <a href="https://reamapp.com"> Ream </a> - A digital self-coaching platform that brings together the power of journalling & AI to help you clarify and achieve your goals.
- - <a href="https://davstack.com"> Davstack </a> - A suite of typescript libraries for building better web applications faster, including a state manager and service builder.
 
 📫 How to reach me:
   <a href="https://www.linkedin.com/in/evandc/"> LinkedIn </a> 

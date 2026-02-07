@@ -31,7 +31,7 @@
 <h2>Currently using</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,mysql,gcp,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,react,next,nodejs,mysql,bash" />
 </div>
 
 <!--

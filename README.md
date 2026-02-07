@@ -2,7 +2,7 @@
 
 📌 I'm a software engineer and a problem solver. 
 
-🔭 My life mission is to create tools that help humans flourish, by applying psychology into innovative software solutions.
+🔭 My life mission is to develop interesting solutions to interesting problems.
 <!--
 - 🔭 My life mission is to integrate the psychological research into innovative technical solutions that help humans to flourish.
 
@@ -24,7 +24,7 @@
  - <a href="https://davstack.com"> Davstack </a> - A suite of typescript libraries for building better web applications faster, including a state manager and service builder.
 
 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/evandc/"> LinkedIn </a> or dpwraga@gmail.com
+  <a href="https://www.linkedin.com/in/evandc/"> LinkedIn </a> 
 
 
 
@@ -55,7 +55,6 @@ Languages and Markup
 [![HTML][html-icon]][html-url]
 [![CSS][css-icon]][css-url]
 [![Scss][scss-icon]][scss-url]
-[![PHP][php-icon]][php-url]
 [![Python][python-icon]][python-url]
 [![Java][java-icon]][java-url]
 
@@ -63,9 +62,6 @@ Frontend Frameworks and Libraries
 
 [![React][react-icon]][react-url]
 [![Next.js][next-icon]][next-url]
-[![Material UI][mui-icon]][mui-url]
-[![Chakra UI][chakra-icon]][chakra-url]
-[![Framer Motion][framer-motion-icon]][framer-motion-url]
 [![Tailwind CSS][tailwind-icon]][tailwind-url]
 
 <!-- [![React Query][react-query-icon]][react-query-url]
@@ -75,19 +71,13 @@ Backend & Deployment
 
 [![Node.js][nodejs-icon]][nodejs-url]
 [![MySQL][mysql-icon]][mysql-url]
-[![Prisma][prisma-icon]][prisma-url]
 [![Linux Bash][linux-icon]][linux-url]
-[![Firebase][firebase-icon]][firebase-url]
-[![Google Cloud Platform][gcp-icon]][gcp-url]
 
 Tools and Testing
 
 [![Git][git-icon]][git-url]
 [![GitHub][github-icon]][github-url]
-[![Jira][jira-icon]][jira-url]
 [![Visual Studio Code][vscode-icon]][vscode-url]
-[![Postman][postman-icon]][postman-url]
-[![Jest][jest-icon]][jest-url]
 
 Design and Prototyping
 

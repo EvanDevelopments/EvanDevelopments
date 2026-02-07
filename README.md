@@ -79,11 +79,7 @@ Tools and Testing
 [![GitHub][github-icon]][github-url]
 [![Visual Studio Code][vscode-icon]][vscode-url]
 
-Design and Prototyping
 
-[![Figma][figma-icon]][figma-url]
-[![Adobe Photoshop][photoshop-icon]][photoshop-url]
-[![Diagrams.net][diagrams-icon]][diagrams-url]
 
 </div>
 

@@ -22,6 +22,7 @@
 
 📫 How to reach me:
   <a href="https://www.linkedin.com/in/evandc/"> LinkedIn </a> 
+  <a href="portfolio-repo-drab-one.vercel.app"> Portfolio </a> 
 
 
 
